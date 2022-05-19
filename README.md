@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Rufat Guliyev</h1>
 
 <div align="center">
-<img src="https://media4.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e470yg1ajcxsji7sssxcj5sskdbd68m22t2v4pe99z5&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://media4.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e470yg1ajcxsji7sssxcj5sskdbd68m22t2v4pe99z5&rid=giphy.gif&ct=g" align="center" style="width: 60%" />
 </div>  
 
-<h3 align="center">Github Stats</h3>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rftglyv&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rftglyv&hide_border=true&layout=compact" align="center" style="width: 60%" /></div>  
+
 
 <h3 align="center">Skills</h3> 
 
@@ -27,3 +25,9 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=o5lm6yadjsncqfm2oz2wt6mnr&cover_image=true&theme=compact" /></div>  
+
+<br/>  
