@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Rufat Guliyev</h1>
 
-<div align="center">
-<img src="https://media4.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e470yg1ajcxsji7sssxcj5sskdbd68m22t2v4pe99z5&rid=giphy.gif&ct=g" align="center" style="width: 60%" />
-</div>  
-
-
-
 <h3 align="center">Skills</h3> 
 
 <div align="center">  
