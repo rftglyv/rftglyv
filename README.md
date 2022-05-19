@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rufat Guliyev</h1>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=o5lm6yadjsncqfm2oz2wt6mnr&cover_image=true&theme=compact" /></div> 
 
 <h3 align="center">Skills</h3> 
 
@@ -19,9 +19,3 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=o5lm6yadjsncqfm2oz2wt6mnr&cover_image=true&theme=compact" /></div>  
-
-<br/>  
