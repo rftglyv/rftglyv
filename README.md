@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Rufat Guliyev</h1>
 
-<!--
-**rftglyv/rftglyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://media4.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e470yg1ajcxsji7sssxcj5sskdbd68m22t2v4pe99z5&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+</div>  
 
-Here are some ideas to get you started:
+<h3 align="center">Github Stats</h3>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rftglyv&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rftglyv&hide_border=true&layout=compact" align="center" style="width: 60%" /></div>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Skills</h3> 
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+<h3 align="center">Contact</h3> 
+
+<div align="center">
+<a href="https://github.com/rftglyv" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/rftglyv" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+</div>  
