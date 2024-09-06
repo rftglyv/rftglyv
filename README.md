@@ -15,6 +15,7 @@
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
 </div>
 <!-- <div align="center" style="margin: 50px"><img src="https://github-readme-stats.vercel.app/api?username=rftglyv&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+  <br/>
 <div align="center">
   <a href="https://github.com/rftglyv" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
