@@ -1,4 +1,5 @@
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=o5lm6yadjsncqfm2oz2wt6mnr&cover_image=true&theme=compact" /></div>
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=o5lm6yadjsncqfm2oz2wt6mnr&cover_image=true&theme=compact" /></div> -->
+<div align="center"><img src="https://codeium.com/profile/rftglyv/card.png" /></div>
 <div>
   <h3 align="center">Skills</h3>
   <div align="center">  
